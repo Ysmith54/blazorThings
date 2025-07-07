@@ -1,2 +1,2 @@
 # blazorThings
-using Blazor to create web applications
+using Microsoft Blazor to create web applications
